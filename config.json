@@ -1,4 +1,4 @@
 {
-    "redis-server": "localhost",
+    "redis-server": "mdms-ringo.js",
     "redis-port":   6379
 }
